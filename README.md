@@ -14,4 +14,4 @@ To get started with the app, you'll need to do the following:
 3. PATCH /acronym/:acronymID - To update the acronym for :acronymID
 4. DELETE /acronym/:acronymID - To delete the acronym for :acronymID
 
-
+All these endpoint tested by postman and all are successfully work.
